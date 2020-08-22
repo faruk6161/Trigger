@@ -111,7 +111,6 @@ namespace Trigger
             frmRaporla raporFormu = new frmRaporla();
             this.Hide();
             raporFormu.Show();
-
         }
         private void btnSatisSil_Click(object sender, EventArgs e)
         {
